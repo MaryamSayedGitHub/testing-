@@ -1,5 +1,8 @@
 print("merO")
 
+def sum(int a,int b):
+ return a+b
 
-x=2*8
-print(x)
+
+def sum(int a,int b):
+ return a**b
