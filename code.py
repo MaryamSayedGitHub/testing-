@@ -1,5 +1,9 @@
 print("merO")
 
 
-x=2*8
-print(x)
+def sum1(int a,int b):
+ return a+b
+
+
+def sum1(int a,int b):
+ return a**b
